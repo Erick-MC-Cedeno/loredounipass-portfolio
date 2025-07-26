@@ -1,24 +1,24 @@
 # SafeRide
 
 ## Descripción
-Este proyecto es una aplicación web moderna enfocada en mejorar la seguridad y experiencia del transporte. Construida con Next.js y tecnologías de vanguardia, esta plataforma ofrece soluciones innovadoras para el sector de transporte.
+Este proyecto es mi portafolio web personal, construido con Next.js y una variedad de tecnologías modernas para mostrar mis habilidades, proyectos y experiencia como Ingeniero de Software Full Stack.
+
 
 > 🚧 **Proyecto en Desarrollo Activo** 🚧
 
 ## Características
-- **Monitoreo en Tiempo Real:** Seguimiento en vivo de rutas y ubicación de vehículos
-- **Gestión de Flotas:** Administración eficiente de vehículos y conductores
-- **Sistema de Alertas:** Notificaciones instantáneas sobre incidentes o emergencias
-- **Reportes Detallados:** Análisis completo de datos de viajes y seguridad
-- **Interfaz Intuitiva:** Diseño responsive y fácil de usar para todos los usuarios
-- **Autenticación Segura:** Sistema robusto de login y gestión de permisos
+- **Diseño Responsivo:** Adaptable a diferentes tamaños de pantalla y dispositivos.
+- **Secciones Claras:** Navegación intuitiva a través de secciones como "Sobre Mí", "Habilidades", "Proyectos" y "Contacto".
+- **Showcase de Proyectos:** Presentación detallada de proyectos con descripciones y enlaces.
+- **Formulario de Contacto:** Permite a los visitantes ponerse en contacto directamente.
+- **Integración de Redes Sociales:** Enlaces directos a perfiles profesionales y personales.
+- **Componentes Reutilizables:** Desarrollado con una biblioteca de componentes UI para consistencia y eficiencia.
 
 ## Tecnologías Utilizadas
 Aquí están las principales tecnologías y librerías utilizadas en este proyecto:
 
 - **Next.js**  [![Next.js](https://img.shields.io/badge/Next.js-Black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 - **React**  [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-- **TypeScript**  [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 - **Tailwind CSS**  [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 - **shadcn/ui** [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
 - **Lucide React**  [![Lucide React](https://img.shields.io/badge/Lucide_React-222222?style=for-the-badge&logo=lucide&logoColor=white)](https://lucide.dev/)
