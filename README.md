@@ -7,6 +7,7 @@ This project is my personal web portfolio, built with Next.js and a variety of m
 🚀 [https://saferide.vercel.app/](https://loredounipass-portfolio.vercel.app/)
 
 
+
 ## Features
 - **Responsive Design:** Adaptable to different screen sizes and devices.
 - **Clear Sections:** Intuitive navigation through sections like "About Me," "Skills," "Projects," and "Contact."
