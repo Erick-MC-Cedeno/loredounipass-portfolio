@@ -320,7 +320,7 @@ export default function HomePage() {
                     Smart Contracts
                   </Badge>
                 </div>
-                <a href="https://github.com/Erick-MC-Cedeno" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/Erick-MC-Cedeno/Crypto-Wallet" target="_blank" rel="noopener noreferrer">
                   <Button
                     variant="outline"
                     size="sm"
@@ -406,7 +406,7 @@ export default function HomePage() {
                     Marketplace
                   </Badge>
                 </div>
-                <a href="https://github.com/Erick-MC-Cedeno" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/Erick-MC-Cedeno/Market-Place" target="_blank" rel="noopener noreferrer">
                   <Button
                     variant="outline"
                     size="sm"
@@ -447,7 +447,7 @@ export default function HomePage() {
                     WebSocket
                   </Badge>
                 </div>
-                <a href="https://github.com/Erick-MC-Cedeno" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/Erick-MC-Cedeno/NextChat" target="_blank" rel="noopener noreferrer">
                   <Button
                     variant="outline"
                     size="sm"
@@ -488,7 +488,7 @@ export default function HomePage() {
                     Video Chat
                   </Badge>
                 </div>
-                <a href="https://github.com/Erick-MC-Cedeno" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/Erick-MC-Cedeno/Strangers" target="_blank" rel="noopener noreferrer">
                   <Button
                     variant="outline"
                     size="sm"
@@ -529,7 +529,7 @@ export default function HomePage() {
                     Transportation
                   </Badge>
                 </div>
-                <a href="https://github.com/Erick-MC-Cedeno" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/Erick-MC-Cedeno/Saferide-web" target="_blank" rel="noopener noreferrer">
                   <Button
                     variant="outline"
                     size="sm"
