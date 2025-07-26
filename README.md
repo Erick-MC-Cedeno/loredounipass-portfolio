@@ -26,11 +26,11 @@ Aquí están las principales tecnologías y librerías utilizadas en este proyec
 Aquí puedes encontrar mis enlaces importantes:
 
 *   **Portafolio:** [https://loredounipass-portfolio.vercel.app/](https://loredounipass-portfolio.vercel.app/)
-*   **GitHub:** [https://github.com/loredounipass](https://github.com/loredounipass) (Reemplaza con tu enlace real de GitHub)
-*   **LinkedIn:** [https://linkedin.com/in/loredounipass](https://linkedin.com/in/loredounipass) (Reemplaza con tu enlace real de LinkedIn)
-*   **Telegram:** [https://t.me/loredounipass](https://t.me/loredounipass) (Reemplaza con tu enlace real de Telegram)
-*   **Spotify:** [https://open.spotify.com/user/loredounipass](https://open.spotify.com/user/loredounipass) (Reemplaza con tu enlace real de Spotify)
-*   **Email:** [mailto:contact@loredounipass.com](mailto:contact@loredounipass.com) (Reemplaza con tu dirección de correo electrónico real)
+*   **GitHub:** [https://github.com/Erick-MC-Cedeno](https://github.com/Erick-MC-Cedeno)
+*   **LinkedIn:** [https://www.linkedin.com/in/erick-cedeno-3a5137230](https://www.linkedin.com/in/erick-cedeno-3a5137230)
+*   **Telegram:** [https://t.me/Loredounipass](https://t.me/Loredounipass)
+*   **TikTok:** [https://www.tiktok.com/@loredounipass](https://www.tiktok.com/@loredounipass)
+*   **Email:** [mailto:erickcedeno558@gmail.com](mailto:erickcedeno558@gmail.com)
 
 ## Instalación y Uso
 Para configurar y ejecutar el proyecto localmente, sigue estos pasos:
