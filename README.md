@@ -6,7 +6,6 @@ Este proyecto es mi portafolio web personal, construido con Next.js y una varied
 ## Accede a el portafolio
 🚀 [https://saferide.vercel.app/](https://saferide.vercel.app/)
 
-> 🚧 **Proyecto en Desarrollo Activo** 🚧
 
 ## Características
 - **Diseño Responsivo:** Adaptable a diferentes tamaños de pantalla y dispositivos.
