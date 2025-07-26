@@ -3,8 +3,9 @@
 ## Descripción
 This project is my personal web portfolio, built with Next.js and a variety of modern technologies to showcase my skills, projects, and experience as a Full Stack Software Engineer
 
-## Check my portfolio
-🚀 [https://saferide.vercel.app/](https://loredounipass-portfolio.vercel.app/)
+## 🚀 Check out my personal portfolio
+Explore my projects, skills, and experience as a Full Stack Software Engineer:
+👉 [loredounipass-portfolio.vercel.app](https://loredounipass-portfolio.vercel.app/)
 
 
 
