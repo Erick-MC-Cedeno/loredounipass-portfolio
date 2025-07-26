@@ -1,16 +1,17 @@
-# Loredounipass - Portafolio Web
+# SafeRide
 
-Este proyecto es mi portafolio web personal, construido con Next.js y una variedad de tecnologías modernas para mostrar mis habilidades, proyectos y experiencia como Ingeniero de Software Full Stack.
+## Descripción
+Este proyecto es una aplicación web moderna enfocada en mejorar la seguridad y experiencia del transporte. Construida con Next.js y tecnologías de vanguardia, esta plataforma ofrece soluciones innovadoras para el sector de transporte.
 
-# ¡En desarrollo continuo!
+> 🚧 **Proyecto en Desarrollo Activo** 🚧
 
 ## Características
-- **Diseño Responsivo:** Adaptable a diferentes tamaños de pantalla y dispositivos.
-- **Secciones Claras:** Navegación intuitiva a través de secciones como "Sobre Mí", "Habilidades", "Proyectos" y "Contacto".
-- **Showcase de Proyectos:** Presentación detallada de proyectos con descripciones y enlaces.
-- **Formulario de Contacto:** Permite a los visitantes ponerse en contacto directamente.
-- **Integración de Redes Sociales:** Enlaces directos a perfiles profesionales y personales.
-- **Componentes Reutilizables:** Desarrollado con una biblioteca de componentes UI para consistencia y eficiencia.
+- **Monitoreo en Tiempo Real:** Seguimiento en vivo de rutas y ubicación de vehículos
+- **Gestión de Flotas:** Administración eficiente de vehículos y conductores
+- **Sistema de Alertas:** Notificaciones instantáneas sobre incidentes o emergencias
+- **Reportes Detallados:** Análisis completo de datos de viajes y seguridad
+- **Interfaz Intuitiva:** Diseño responsive y fácil de usar para todos los usuarios
+- **Autenticación Segura:** Sistema robusto de login y gestión de permisos
 
 ## Tecnologías Utilizadas
 Aquí están las principales tecnologías y librerías utilizadas en este proyecto:
@@ -35,39 +36,31 @@ Aquí puedes encontrar mis enlaces importantes:
 ## Instalación y Uso
 Para configurar y ejecutar el proyecto localmente, sigue estos pasos:
 
-1.  ## Clonar el repositorio:
+1. ## Clonar el repositorio:
+```bash
+git clone https://github.com/civernet/saferide1.git
+cd saferide1
+```
 
-    ```
-    git clone https://github.com/Erick-MC-Cedeno/loredounipass-portfolio.git
-    cd loredounipass-portfolio
-   ```
+2. ## Instalar dependencias:
+```bash
+# Con npm
+npm install
 
-2.  ## Instalar dependencias:
+# Con pnpm
+pnpm install
+```
 
-    ```
-    npm install
-    ```
+3. ## Ejecutar la aplicación:
+```bash
+# Con npm
+npm run dev
 
-    # o si usas pnpm
+# Con pnpm
+pnpm dev
+```
 
-    ```
-    pnpm install
-    ```
-
-3.  ## Ejecutar la aplicación:
-
-    ```
-    npm run dev
-    ```
-
-    # o si usas pnpm
-
-    ```
-    pnpm dev
-   ```
-   
-
-4.  ## Abrir en el navegador:
+4. ## Abrir en el navegador:
     El servidor estará corriendo en `http://localhost:3000`.
 
 ## Contribución
