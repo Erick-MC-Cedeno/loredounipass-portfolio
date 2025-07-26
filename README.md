@@ -42,11 +42,13 @@ Para configurar y ejecutar el proyecto localmente, sigue estos pasos:
     \`\`\`
 
 2.  **Instalar dependencias:**
-    \`\`\`bash
+    ```
     npm install
+    ```
+    ```
     # o si usas pnpm
     pnpm install
-    \`\`\`
+    ```
 
 3.  **Ejecutar la aplicación:**
     \`\`\`bash
