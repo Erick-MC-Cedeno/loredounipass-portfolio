@@ -38,8 +38,8 @@ Para configurar y ejecutar el proyecto localmente, sigue estos pasos:
 
 1. ## Clonar el repositorio:
 ```bash
-git clone https://github.com/civernet/saferide1.git
-cd saferide1
+git clone https://github.com/Erick-MC-Cedeno/loredounipass-portfolio
+cd loredounipass-portfolio
 ```
 
 2. ## Instalar dependencias:
