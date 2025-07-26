@@ -36,30 +36,37 @@ Aquí puedes encontrar mis enlaces importantes:
 Para configurar y ejecutar el proyecto localmente, sigue estos pasos:
 
 1.  **Clonar el repositorio:**
+
     ```
     git clone https://github.com/Erick-MC-Cedeno/loredounipass-portfolio.git
     cd loredounipass-portfolio
    ```
 
 2.  **Instalar dependencias:**
+
     ```
     npm install
     ```
 
     # o si usas pnpm
+
     ```
     pnpm install
     ```
 
 3.  **Ejecutar la aplicación:**
+
     ```
     npm run dev
     ```
 
     # o si usas pnpm
+
     ```
     pnpm dev
    ```
+
+4.  **Abrir en el navegador:**
     El servidor estará corriendo en `http://localhost:3000`.
 
 ## Contribución
