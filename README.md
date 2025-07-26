@@ -26,7 +26,7 @@ Aquí están las principales tecnologías y librerías utilizadas en este proyec
 Aquí puedes encontrar mis enlaces importantes:
 
 *   **Portafolio:** [https://loredounipass-portfolio.vercel.app/](https://loredounipass-portfolio.vercel.app/)
-*   **GitHub:** [https://github.com/Erick-MC-Cedeno](https://github.com/Erick-MC-Cedeno)
+*   **GitHub:** [https://github.com/Erick-MC-Cedeno/loredounipass-portfolio](https://github.com/Erick-MC-Cedeno/loredounipass-portfolio)
 *   **LinkedIn:** [https://www.linkedin.com/in/erick-cedeno-3a5137230](https://www.linkedin.com/in/erick-cedeno-3a5137230)
 *   **Telegram:** [https://t.me/Loredounipass](https://t.me/Loredounipass)
 *   **TikTok:** [https://www.tiktok.com/@loredounipass](https://www.tiktok.com/@loredounipass)
@@ -37,8 +37,8 @@ Para configurar y ejecutar el proyecto localmente, sigue estos pasos:
 
 1.  **Clonar el repositorio:**
     \`\`\`bash
-    git clone https://github.com/tu-usuario/erickblog1.git
-    cd erickblog1
+    git clone https://github.com/Erick-MC-Cedeno/loredounipass-portfolio.git
+    cd loredounipass-portfolio
     \`\`\`
 
 2.  **Instalar dependencias:**
