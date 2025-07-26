@@ -45,8 +45,9 @@ Para configurar y ejecutar el proyecto localmente, sigue estos pasos:
     ```
     npm install
     ```
-    ```
+
     # o si usas pnpm
+    ```
     pnpm install
     ```
 
@@ -54,8 +55,9 @@ Para configurar y ejecutar el proyecto localmente, sigue estos pasos:
     ```
     npm run dev
     ```
-    ```
+
     # o si usas pnpm
+    ```
     pnpm dev
    ```
     El servidor estará corriendo en `http://localhost:3000`.
