@@ -36,10 +36,10 @@ Aquí puedes encontrar mis enlaces importantes:
 Para configurar y ejecutar el proyecto localmente, sigue estos pasos:
 
 1.  **Clonar el repositorio:**
-    \`\`\`bash
+    ```
     git clone https://github.com/Erick-MC-Cedeno/loredounipass-portfolio.git
     cd loredounipass-portfolio
-    \`\`\`
+   ```
 
 2.  **Instalar dependencias:**
     ```
@@ -51,20 +51,19 @@ Para configurar y ejecutar el proyecto localmente, sigue estos pasos:
     ```
 
 3.  **Ejecutar la aplicación:**
-    \`\`\`bash
+    ```
     npm run dev
+    ```
+    ```
     # o si usas pnpm
     pnpm dev
-    \`\`\`
+   ```
     El servidor estará corriendo en `http://localhost:3000`.
 
 ## Contribución
 ¡Las contribuciones son bienvenidas! Por favor, abre un 'issue' o envía un 'pull request' con tus mejoras.
 
-## Licencia
-Este proyecto está licenciado bajo la [Licencia MIT](https://opensource.org/licenses/MIT).
 
-## Capturas de Pantalla
-Aquí tienes una vista previa del portafolio:
 
-![Portafolio Loredounipass](./public/images/portfolio-screenshot.jpeg)
+
+
