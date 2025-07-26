@@ -9,7 +9,7 @@ You can view the live deployment of this portfolio here:
 
 ## Features
 
-*   **Dynamic Neural Network Background**: An interactive and visually appealing neural network animation that creates an immersive experience.
+*   **Dynamic Neural Network Background**: An interactive and visually appealing neural network animation that creates an immersive experience with an "ocean" aesthetic.
 *   **Dark Theme**: A sleek, dark color scheme for a modern and professional look.
 *   **Responsive Design**: Optimized for various screen sizes, ensuring a seamless experience on desktops, tablets, and mobile devices.
 *   **Hero Section**: A prominent introduction with a profile picture, name, and a brief description.
@@ -17,7 +17,7 @@ You can view the live deployment of this portfolio here:
 *   **Skills Section**: A clear display of technical and soft skills.
 *   **Projects Section**: Showcase of past projects with descriptions and links.
 *   **Contact Section**: Easy-to-use form and social media links for communication.
-*   **Social Media Integration**: Links to LinkedIn, GitHub, TikTok, and other relevant platforms.
+*   **Social Media Integration**: Links to LinkedIn, GitHub, and TikTok.
 *   **Smooth Scrolling**: Enhanced user experience with smooth navigation between sections.
 
 ## Technologies Used
@@ -46,11 +46,15 @@ Make sure you have the following installed:
 1.  **Clone the repository**:
     \`\`\`bash
     git clone https://github.com/your-username/your-portfolio.git
-    cd your-portfolio
     \`\`\`
     *(Note: Replace `your-username/your-portfolio.git` with the actual repository URL if you have it hosted on GitHub.)*
 
-2.  **Install dependencies**:
+2.  **Navigate to the project directory**:
+    \`\`\`bash
+    cd your-portfolio
+    \`\`\`
+
+3.  **Install dependencies**:
     \`\`\`bash
     npm install
     # or
@@ -85,12 +89,10 @@ The live version of this portfolio is available at: [https://loredounipass-portf
 
 For any inquiries or collaborations, feel free to reach out:
 
-*   **Email**: your-email@example.com
-*   **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-*   **GitHub**: [Your GitHub Profile](https://github.com/your-username)
-*   **TikTok**: [Your TikTok Profile](https://www.tiktok.com/@your-tiktok-handle)
-
-*(Note: Replace placeholder links and emails with your actual information.)*
+*   **Email**: erick.laredo.unipass@example.com *(Please update this with your actual email address)*
+*   **LinkedIn**: [Erick Laredo Unipass](https://www.linkedin.com/in/erick-laredo-unipass-b7b7b7b7/)
+*   **GitHub**: [ericklaredounipass](https://github.com/ericklaredounipass)
+*   **TikTok**: [ericklaredounipass](https://www.tiktok.com/@ericklaredounipass)
 
 ## License
 
